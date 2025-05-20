@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","60838","Bayer Global Website Navigation Flow","firefox","Mon May 19 12:58:27 IST 2025","broken","Mon May 19 12:59:28 IST 2025","","globalsitenavigation.spec.ts","",""
+"","61208","Validate Bayer site homepage navigation flow","firefox","Mon May 19 12:58:27 IST 2025","broken","Mon May 19 12:59:29 IST 2025","","innavigation.spec.ts","",""
+"","22094","Validate Bayer site homepage navigation flow","chromium","Mon May 19 13:08:07 IST 2025","passed","Mon May 19 13:08:29 IST 2025","","innavigation.spec.ts","",""
+"","18685","Bayer Global Website Navigation Flow","chromium","Mon May 19 13:08:07 IST 2025","failed","Mon May 19 13:08:25 IST 2025","","globalsitenavigation.spec.ts","",""
+"","60541","Bayer Global Website Navigation Flow","webkit","Mon May 19 12:58:27 IST 2025","failed","Mon May 19 12:59:28 IST 2025","","globalsitenavigation.spec.ts","",""
+"","59265","Validate Bayer site homepage navigation flow","webkit","Mon May 19 12:58:27 IST 2025","passed","Mon May 19 12:59:27 IST 2025","","innavigation.spec.ts","",""
